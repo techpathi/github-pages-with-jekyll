@@ -1,3 +1,5 @@
-# Welcome to my blog
+# _Venkatapathi Raju Gangiri_
 
-I'm glad you are here. I plan to talk about ...
+Android dev | Former Developer Student Club Lead | .NET tinkerer | In love with building bots | Flutter enthusiast
+
+[GitHub](github.com/techpathi) | [LinkedIn](linkedin.com/in/gvpraju)
